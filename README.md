@@ -1,2 +1,2 @@
 # BeeCalc
-A calculator i made coded in Visual Basic. I made a calculator because NTBeta made one. Compatible with Windows 7 and Newer and probably with windows vista
+A VBScript calculator, Compatible with windows vista and newer ig (i havent tested on vista but i have tested on windows 7).
