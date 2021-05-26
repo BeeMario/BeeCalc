@@ -1,2 +1,4 @@
 # BeeCalc
-A VBScript calculator, Compatible with windows vista and newer ig (i havent tested on vista but i have tested on windows 7).
+a calculator and shits.
+
+there is two ports, and i will add more soon lol
